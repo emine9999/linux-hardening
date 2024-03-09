@@ -12,6 +12,10 @@ git clone https://github.com/emine9999/linux-hardening.git
 ```bash
  cd linux-hardening
 ```
-3.Run the main script with root privilege.
+3.change the file permissions
+```bash
+chmod +x ./linux_hardening\ \(2\).sh
+```
+4.Run the main script with root privilege.
 ```bash
 sudo ./linux_hardening (2).sh
